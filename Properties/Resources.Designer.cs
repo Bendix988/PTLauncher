@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XVLauncher.Properties {
+namespace PTLauncher.Properties {
     using System;
     
     
@@ -19,7 +19,7 @@ namespace XVLauncher.Properties {
     // tramite uno strumento quale ResGen o Visual Studio.
     // Per aggiungere o rimuovere un membro, modificare il file con estensione ResX ed eseguire nuovamente ResGen
     // con l'opzione /str oppure ricompilare il progetto VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -39,7 +39,7 @@ namespace XVLauncher.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("XVLauncher.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PTLauncher.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Cerca una stringa localizzata simile a .
+        ///   Cerca una stringa localizzata simile a glpat-ZmzRLSdpzqrexJnANmqd.
         /// </summary>
         internal static string AccessToken {
             get {
@@ -106,7 +106,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Cerca una stringa localizzata simile a Test.exe.
+        ///   Cerca una stringa localizzata simile a Game.exe.
         /// </summary>
         internal static string Executable {
             get {
@@ -133,7 +133,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Cerca una stringa localizzata simile a TestApp.
+        ///   Cerca una stringa localizzata simile a Pokemon Tempesta.
         /// </summary>
         internal static string SaveDirectory {
             get {
@@ -142,7 +142,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Cerca una stringa localizzata simile a https://gitlab.com/sasso-effe/xvlauncher-test/-/raw/{0}/.
+        ///   Cerca una stringa localizzata simile a https://gitlab.com/Bendix988/PTLauncher/-/raw/{0}/.
         /// </summary>
         internal static string UpdateUrl {
             get {
