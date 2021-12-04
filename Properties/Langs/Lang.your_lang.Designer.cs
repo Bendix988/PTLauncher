@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PTLauncher.Properties.Langs {
+namespace XVLauncher.Properties.Langs {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace PTLauncher.Properties.Langs {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PTLauncher.Properties.Langs.Lang.your_lang", typeof(Lang_your_lang).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("XVLauncher.Properties.Langs.Lang.your_lang", typeof(Lang_your_lang).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
